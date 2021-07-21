@@ -1,0 +1,40 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 2px;
+    box-shadow: 5px 5px 5px red;
+    font-family: 'Bangers', cursive;
+}
+body
+{
+    background:url("background.jpg");
+     background-size: cover;
+}
+.background
+{
+   width:100%;
+}
+.note
+{
+    font-size: 15px;
+    color:black;
+
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: gold;
+    background-color: black;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+
+}
+canvas
+{
+border: 5px solid orangered;
+border-radius: 20px;
+box-shadow: 5px orange;
+}
